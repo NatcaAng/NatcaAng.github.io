@@ -1,0 +1,24 @@
+li:nth-child(2n) {
+    text-indent: 50px;
+/*    margin: 20px;*/
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+.one {
+    text-decoration: underline;
+}
+
+#my {
+    text-decoration: line-through;
+}
+
+img {
+    transition: 1s;
+}
+
+img:hover {
+    transform: scale(1.2);
+}
